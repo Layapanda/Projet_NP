@@ -68,7 +68,7 @@ Projet_NP/
 >Link to the git repository : [**Project_NP**](https://github.com/lochej/DE0_HPS_Example)
 - Use git clone command on the **/home/pi/** folder.
 ```
-git clone
+git clone https://github.com/Layapanda/Projet_NP.git
 ```
 - or download and copy it to **/home/pi/** on your Raspberry PI 4 board.
 
