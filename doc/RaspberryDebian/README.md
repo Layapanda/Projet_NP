@@ -12,7 +12,7 @@ Link to the original **Raspberry Installer Software** :
 > - Mac OS : https://downloads.raspberrypi.org/imager/imager_1.6.dmg
 
 
-![Raspberry Installer Software](doc/Specs_and_Design/images/pi_installer.PNG)
+![Raspberry Installer Software](../../Specs_and_Design/images/pi_installer.PNG)
 
 >1. Choose your OS
 
