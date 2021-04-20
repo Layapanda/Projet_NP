@@ -16,15 +16,15 @@ Link to the original **Raspberry Installer Software** :
 
 >1. Choose your OS
 
-![Image version](../Specs_and_Design/images//version_rasp.png)
+![Image version](../Specs_and_Design/images/version_rasp.PNG)
 
 >2. Choose your sdcard
 
-![Image version](../Specs_and_Design/images/sdcard.png)
+![Image version](../Specs_and_Design/images/sdcard.PNG)
 
 >3. Write on the sdcard
 
-![Image version](../Specs_and_Design/images/write.png)
+![Image version](../Specs_and_Design/images/write.PNG)
 
 Your boot SD card is now ready !
 
@@ -49,11 +49,11 @@ network={
 
 > Once this done, you will have to copy and paste both files into the sdcard you made
 
-![Image version](../Specs_and_Design/images/images/boot.png)
+![Image version](../Specs_and_Design/images/boot.PNG)
 
 > Now place the sdcard on the raspberry and power up the board
 
-![Image version](../Specs_and_Design/images/sdcard_place.png)
+![Image version](../Specs_and_Design/images/sdcard_place.PNG)
 
 ## SSH connection
 
