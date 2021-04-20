@@ -65,7 +65,7 @@ Projet_NP/
 
 >Use this procedure to start : [Linux Install on Raspberry PI 4](doc/RaspberryDebian/README.md)
 
->Link to the git repository : [**Project_NP**](https://github.com/lochej/DE0_HPS_Example)
+>Link to the git repository : [**Project_NP**](https://github.com/Layapanda/Projet_NP)
 - Use git clone command on the **/home/pi/** folder.
 ```
 git clone https://github.com/Layapanda/Projet_NP.git
