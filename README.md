@@ -3,7 +3,7 @@ Number of person repository, where all the work is set up.
 
 The NP is a **Polytech Tours** project aiming at showing all the skills studied in the industrial computer science classes.
 
-![NP packaged project](doc/Specs_and_Design/images/np_projet.png)
+![NP packaged project](doc/Specs_and_Design/images/np_projet.PNG)
 
 ## For one user, one manual
 
