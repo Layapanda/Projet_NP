@@ -50,7 +50,6 @@ Projet_NP/
 ├── parametre_projet.json
 ├── run.sh
 ├── TFLite_detection_webcam.py
-├── build
 ├── Projet_NP-env
 ├── rpi-rgb-led-matrix
 │   ├── libs (c) Henner Zeller <h.zeller@acm.org>
