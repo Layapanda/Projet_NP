@@ -56,6 +56,7 @@ Projet_NP/
 │       └── bindings
 │           └── python
 │               └── samples
+│                   ├── clean_matrice.py
 │                   └── matrice_led.py
 └── Sample_TFLite_model
     ├── detect.tflite
