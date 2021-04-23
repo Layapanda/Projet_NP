@@ -33,7 +33,9 @@ Projet_NP/
 │   │   ├── INSTALL.md
 │   │   └── README.md
 │   ├── Maintener
-│   │   └── Diagnostic_NP
+│   │   ├── Diagnostic_Matrice_LED.jpg
+│   │   ├── Diagnostic_Person_D.jpg
+│   │   └── README.md
 │   ├── RaspberryDebian
 │   │   └── README.md
 │   ├── Spec_and_Design
