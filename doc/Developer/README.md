@@ -23,6 +23,7 @@ Here a few links for the documents that will interest you:
 1. [Specifications](../Specs_and_Design/CDS_NP_MARTINEZ_Pablo.pdf) : where you'll find a general system architecture diagram and design choices
 2. [Design Reference](../Specs_and_Design/CA_NP_MARTINEZ_Pablo.pdf) : a document telling you how every component is structured and how you should use it
 3. [Wiring diagram](../Specs_and_Design/Wiring_NP.pdf) : This is the current system wiring diagram for the peripherals
+4. [Project_report](../Specs_and_Design/Rapport_NP_MARTINEZ_Pablo.pdf) : This is the final report of the NP_project
 
 The full system source code is stored inside [**the folder**](https://github.com/Layapanda/Projet_NP/).
 You'll have everyfind regarding all of the services installed on the board to control the peripherals.
