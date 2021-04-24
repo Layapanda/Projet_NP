@@ -9,7 +9,7 @@ To install the NP application you'll need:
 2. Raspberry Pi **power brick**
 3. Micro SD card **8 GB or more**
 
-## Operating System build & install and connecting the board to Internet
+## Operating System build & install & connecting the board to Internet
 Refer to the following procedure to **build the system image and install it to the micro SD card**:
 
 > [**Raspberry Debian 10**](https://github.com/Layapanda/Projet_NP/tree/main/doc/RaspberryDebian)
