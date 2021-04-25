@@ -1,6 +1,6 @@
 # NP Maintener
 
-We you are a maintener of the system, you are going to perform several tests of the system to make sure it is working properly.
+You are a maintener of the system, you are going to perform several tests of the system to make sure it is working properly.
 
 The goals are the following:
 
