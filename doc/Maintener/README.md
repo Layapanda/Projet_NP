@@ -15,7 +15,7 @@ We will analyse different failure cases for you to analyse.
 
 In a normal operating mode the following are valid:
 
-1. NodeRED is available at you **http://[YourBoardIP]:1880** and your dashboarbd is available at **http://[YourBoardIP]:1880/ui**
+1. NodeRED is available at **http://[YourBoardIP]:1880** and your dashboarbd is available at **http://[YourBoardIP]:1880/ui**
 2. The LED Matrice is glowing with the time and severals numbers
 
 # Possible Failures
