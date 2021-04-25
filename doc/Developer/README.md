@@ -29,4 +29,4 @@ The full system source code is stored inside [**the folder**](https://github.com
 You'll have everyfind regarding all of the services installed on the board to control the peripherals.
 
 
-*If you follow the above stated guides, you should be able to work with this system with any issues.*
+*If you follow the above stated guides, you should be able to work with this project with any issues.*
