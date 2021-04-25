@@ -14,7 +14,7 @@ Refer to the following procedure to **build the system image and install it to t
 
 > [**Raspberry Debian 10**](https://github.com/Layapanda/Projet_NP/tree/main/doc/RaspberryDebian)
 
-Once you have followed this procedure, you should be able to successfully boot the Raspberry board with a fully working and booting base Debian 10 system image.
+Once you have followed this procedure, you should be able to successfully boot the Raspberry board.
 
 ## Deploy the program files and configuring the system
 
