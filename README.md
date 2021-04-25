@@ -3,6 +3,11 @@ Number of person repository, where all the work is set up.
 
 The NP is a **Polytech Tours** project aiming at showing all the skills studied in the industrial computer science classes.
 
+In this COVID period, the capacity of some rooms is limited. In this context, the idea is to create an automatic counting device based on
+pattern recognition. The device should be set up in a room with only one access and it will display outside the room the number of people present in
+this one.
+
+
 ![NP packaged project](doc/Specs_and_Design/images/np_projet.PNG)
 
 ## For one user, one manual
