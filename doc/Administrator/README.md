@@ -18,7 +18,7 @@ Once you have followed this procedure, you should be able to successfully boot t
 
 ## Deploy the program files and configuring the system
 
-Follow this procedure to copy all the necessary files to the **Raspberry PI 4** board.
+Follow this procedure to copy all the necessary files to the **Raspberry PI 4** board /home/pi.
 
 [**Project files package creation procedure**](../../README.md) -> **Gathering all the programs section**.
 
