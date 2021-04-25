@@ -13,9 +13,9 @@ The **doc** folder is full of documentation resources that you'll use to rebuild
 
 ## Requiements
     - Raspberry Pi 4 4go or more
-    - sdcard
+    - sdcard 8go or more
     - LED Matrice 32x16
-    - Power supply : 3A (Board) + 2A (LED Matrice) --> 5V
+    - Power supply : 3A/5V (Board) + 2A/5V (LED Matrice)
     - USB Webcam
     - 5v relay
 
