@@ -1,4 +1,4 @@
-# Number Person Developer
+# NP Developer
 
 If you want to develop software for the NP, you are going to need the following tools:
 
