@@ -27,7 +27,7 @@ Follow the **install_services.sh** procedure to do the following steps:
 1. build **venv — Creation of virtual environment**
 2. get **c2v and tensorflow** working
 3. authorize access for the whole project
-4. enable **NodeRED** on boot with systemd.
+4. enable **NodeRED** on boot.
 5. enable **NodeRED** GPIOs access.
 
 
