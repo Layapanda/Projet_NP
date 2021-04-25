@@ -20,7 +20,7 @@ Once you have followed this procedure, you should be able to successfully boot t
 
 Follow this procedure to copy all the necessary files to the **Raspberry PI 4** board.
 
-[**Project files package creation procedure**](../../README.md) -> **Mandatory programs** and **Gathering all the programs section**.
+[**Project files package creation procedure**](../../README.md) -> **Gathering all the programs section**.
 
 
 Follow the **install_services.sh** procedure to do the following steps:
