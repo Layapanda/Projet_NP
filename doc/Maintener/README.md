@@ -26,6 +26,13 @@ Please follow the following diagram to perform a system diagnostic for the **Mat
 
 ![Diagnostic TCD](Diagnostic_Matrice_LED.jpg)
 
+# SET TIME
+
+```
+sudo rm /etc/localtime
+sudo ln -s /usr/share/zoneinfo/Europe/Paris /etc/localtime
+```
+
 ## The person detection doesn't work properly
 
 Please follow the following diagram to perform a system diagnostic for the **Person detection** module.
