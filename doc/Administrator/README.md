@@ -1,4 +1,4 @@
-# Number Person Administrator
+# NP Administrator
 
 This document relates to all the tasks that need to be performed by the system administrator in order to build and deploy the NP application.
 
