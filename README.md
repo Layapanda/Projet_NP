@@ -10,9 +10,9 @@ this one.
 
 ![NP packaged project](doc/Specs_and_Design/images/np_projet.PNG)
 
-## For one user, one manual
+## Some documentation to be ready !
 
-The **doc** folder is full of documentation resources that you'll use to rebuild this project. If you are an **Administrator, Developer, Maintener, Demonstrator or a Simple User** of the system you'll be able to find exactly what your role is in this project and what you can do with it.
+The **doc** folder is full of documentation resources that you'll use to rebuild this project. If you are an **Administrator, Developer, Maintener or a Simple User** of the system you'll be able to find exactly what your role is in this project and what you can do with it.
 
 *Check out the [doc folder](doc/) for more information !*
 
