@@ -86,4 +86,4 @@ git clone https://github.com/Layapanda/Projet_NP.git
 
 >Then just run the [install_services.sh](install_services.sh) file in the **Projet_NP** folder.
 
-Once this is done you will finally import the NodeRED flows using this procedure : [NodeRED flows install](src/wbtc_manager/NodeRED/README.md)
+Once this is done you will finally import the NodeRED flows using this procedure : [NodeRED flows install](doc/NodeRED/README.md)
